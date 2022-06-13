@@ -1,0 +1,3 @@
+com\aws\lambda\apis\dto\Order.class
+com\aws\lambda\apis\dto\CreateOrderLambda.class
+com\aws\lambda\apis\dto\ReadOrderLambda.class
